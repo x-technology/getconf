@@ -1,6 +1,6 @@
 # get_conf
 
-An educational Flutter project.
+An educational Flutter project. To be presented on series of [XTechnology meetups](https://www.eventbrite.co.uk/e/introducing-sailmapai-and-getconf-neural-seamap-generator-mobile-apps-tickets-149691925579?aff=tflutter)
 
 
 ## Mobile tool to follow conferences
@@ -16,10 +16,15 @@ Other potential sources of events data:
 - eventbrite
 - google forms and telegram bot for manual submission.
 
-### Potential app components in future:
+## Potential app components in future:
 - Online streams
 - Past event videos
 - Learning material.
+
+## Materials used
+- [Flutter Networking using the Bloc pattern architecture](https://levelup.gitconnected.com/flutter-networking-using-the-bloc-pattern-architecture-cab2aa826a4c)
+- [Bloc docs](https://bloclibrary.dev/)
+- [RxDart](https://github.com/ReactiveX/rxdart)
 
 ## Getting Started
 

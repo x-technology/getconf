@@ -1,7 +1,7 @@
 import 'package:get_conf/model/occasion_response.dart';
 import 'package:dio/dio.dart';
 
-class EventRepository {
+class OccasionRepository {
   final String apiKey = "Test";
   static String mainUrl = "https://localhost:3001/";
 
