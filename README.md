@@ -2,6 +2,7 @@
 
 An educational Flutter project. To be presented on series of [XTechnology meetups](https://www.eventbrite.co.uk/e/introducing-sailmapai-and-getconf-neural-seamap-generator-mobile-apps-tickets-149691925579?aff=tflutter)
 
+![poster](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F131485809%2F504946798187%2F1%2Foriginal.20210407-185401?h=2000&w=720&auto=format%2Ccompress&q=75&sharp=10&s=0cfbb48748c7c171b68e633ae9e25e35)
 
 ## Mobile tool to follow conferences
 
