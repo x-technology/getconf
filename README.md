@@ -26,6 +26,7 @@ Other potential sources of events data:
 - [Flutter Networking using the Bloc pattern architecture](https://levelup.gitconnected.com/flutter-networking-using-the-bloc-pattern-architecture-cab2aa826a4c)
 - [Bloc docs](https://bloclibrary.dev/)
 - [RxDart](https://github.com/ReactiveX/rxdart)
+- [Flutter version 2](https://developers.googleblog.com/2021/03/announcing-flutter-2.html)
 
 ## Getting Started
 
