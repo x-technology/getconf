@@ -1,5 +1,5 @@
 class Occasion {
-  final int id;
+  final String id;
   final String title;
   final String poster;
   final String overview;
@@ -20,4 +20,7 @@ class Occasion {
         location = json["location"],
         datetime = DateTime.parse(json["datetime"]),
         rating = json["rating"].toDouble();
+
+  @override
+  String toString() => title;
 }

@@ -3,7 +3,7 @@ import 'package:dio/dio.dart';
 
 class OccasionRepository {
   final String apiKey = "Test";
-  static String mainUrl = "https://localhost:3001/";
+  static String mainUrl = "http://localhost:3001";
 
   final Dio _dio = Dio();
   var getOccasionsUrl = '$mainUrl/occasions';

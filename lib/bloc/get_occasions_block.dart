@@ -3,12 +3,12 @@ import 'package:get_conf/repository/repository.dart';
 import 'package:rxdart/rxdart.dart';
 
 class OccasionListBloc {
-  final OccasionRepository _movieRepository = OccasionRepository();
+  final OccasionRepository _occasionsRepository = OccasionRepository();
   final BehaviorSubject<OccasionResponse> _subject =
       BehaviorSubject<OccasionResponse>();
 
-  getMovies() async {
-    OccasionResponse response = await _movieRepository.getOccasions();
+  getOccasions() async {
+    OccasionResponse response = await _occasionsRepository.getOccasions();
     _subject.sink.add(response);
   }
 
@@ -19,4 +19,4 @@ class OccasionListBloc {
   BehaviorSubject<OccasionResponse> get subject => _subject;
 }
 
-final moviesBloc = OccasionListBloc();
+final occasionsBloc = OccasionListBloc();
